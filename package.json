@@ -1,0 +1,26 @@
+{
+  "name": "formula-oct2dec",
+  "version": "1.0.0",
+  "description": "OCT2DEC function",
+  "main": "OCT2DEC.js",
+  "scripts": {
+    "test": "mocha test",
+    "build": "babel OCT2DEC.es6 -m umd --out-file OCT2DEC.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FormulaPages/oct2dec.git"
+  },
+  "author": "Ramiro Lopez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FormulaPages/oct2dec/issues"
+  },
+  "homepage": "https://github.com/FormulaPages/oct2dec#readme",
+  "dependencies": {
+    "formula-errors": "^1.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.3"
+  }
+}
