@@ -1,4 +1,4 @@
-# dec2bin
+# oct2dec
 
 [![Build Status](https://travis-ci.org/FormulaPages/oct2dec.svg?branch=master)](https://travis-ci.org/FormulaPages/oct2dec)
 
